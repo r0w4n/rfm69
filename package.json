@@ -27,7 +27,7 @@
   "homepage": "https://github.com/dconstructing/rosie",
   "dependencies": {
     "onoff": "^1.0.2",
-    "pi-spi": "^1.0.0"
+    "pi-spi": "^1.0.1"
   },
   "devDependencies": {
     "mocha": "^2.2.4"
